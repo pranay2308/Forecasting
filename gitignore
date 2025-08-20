@@ -1,0 +1,34 @@
+# ----------------------------
+# Python ignores
+# ----------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+.env/
+
+# ----------------------------
+# Data folder
+# ----------------------------
+# Ignore all datasets in data/ but keep the folder
+data/*
+!data/.gitkeep   # keeps the empty folder in git if needed
+
+# ----------------------------
+# OS-specific files
+# ----------------------------
+.DS_Store
+Thumbs.db
+
+# ----------------------------
+# Logs & temp files
+# ----------------------------
+*.log
+*.tmp

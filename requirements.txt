@@ -1,0 +1,10 @@
+google
+matplotlib
+numpy
+pandas
+scipy
+seaborn
+scikit-learn
+tensorflow
+warnings
+xgboost
