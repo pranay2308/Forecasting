@@ -6,7 +6,7 @@ The goal is to build an end-to-end data science pipeline — from data preproces
 
 ---
 
-## 🎯 Objectives
+## 🎯 Objectives of the project
 - Perform **data cleaning and preprocessing**  
 - Conduct **Exploratory Data Analysis (EDA)** to uncover patterns and insights  
 - Engineer features to improve model performance  
@@ -24,6 +24,7 @@ The goal is to build an end-to-end data science pipeline — from data preproces
   - `scikit-learn` → Machine learning models & evaluation  
   - `statsmodels`, `prophet` → Time-series forecasting  
   - `jupyter` → Interactive notebook environment  
+
 
 ---
 
